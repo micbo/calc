@@ -1,0 +1,13 @@
+/* calc.css */
+
+input[name=sqr] {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+input[name^=digit] {
+    font-weight: bold;
+}
+input.operator {
+    color: rgba(0,0,0,0.8);
+    font-weight: bold;
+}
